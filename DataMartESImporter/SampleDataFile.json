@@ -1,0 +1,4 @@
+﻿{"_id":"2345235","version":"v4.0.114","event_date":"2014-12-17T00:00:00","total_events":100}
+{ "_id": "5543211", "version": "v4.0.30319", "event_date": "2014-12-17T00:00:00", "total_events": 300 }
+{ "_id": "113211", "version": "v5.0.1", "event_date": "2014-12-17T00:00:00", "total_events": 21 }
+{"noIDSpecifiedHereSoWeLetElasticSearchGenerateOne": "noId", "version":"v4.1.2","event_date":"2014-12-17T00:00:00","total_events":200}
